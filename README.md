@@ -1,3 +1,3 @@
 # Simple_Javascript_Quiz
 Simple javascript quiz using HTML, CSS and Javascript.
-https://maheshdbabar9340.github.io/Simple_Javascript_Quiz/
+https://github.com/kiranbabar5852github.io/Simple_Javascript_Quiz/
